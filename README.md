@@ -1,3 +1,13 @@
+# Cool Chrome flags
+Useful flags (experiments) to extend or improve Google Chrome's base functionality, accessible via `chrome://flags`.
+
+## Contribute
+If you know of any flags that should be added to this list, submit an [issue](https://github.com/iiinh7/cool-chrome-flags/issues) or [pull request](https://github.com/iiinh7/cool-chrome-flags/pulls). This list is targeted for Chrome's stable release, as that's what I use; however, contributions may extend its scope to other release channels (e.g., Canary or Dev).
+
+If you are to contribute, please include a preview screenshot if possible.
+
+---
+
  **Flag** | **Value** | **Preview**
 ---|---|---
  **Enable Reader Mode**<br>Allows viewing of simplified web pages<br>*#enable-reader-mode* | Enabled<br>Enabled available in settings | <details><summary>Click to open</summary>![Screenshot of Chrome's reader mode view.](https://user-images.githubusercontent.com/121842593/222714040-801ed68d-1093-40c6-9d9c-b3092b4b5e4d.png)</details>
