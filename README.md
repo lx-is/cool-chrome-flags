@@ -2,7 +2,7 @@
 Useful flags (experiments) to extend or improve Google Chrome's base functionality, accessible via `chrome://flags`.
 
 ## Contribute
-If you know of any flags that should be added to this list, submit an [issue](https://github.com/iiinh7/cool-chrome-flags/issues) or [pull request](https://github.com/iiinh7/cool-chrome-flags/pulls). This list is targeted for Chrome's stable release, as that's what I use; however, contributions may extend its scope to other release channels (e.g., Canary or Dev).
+If you know of any flags that should be added to this list, submit an [issue](https://github.com/iiinh7/cool-chrome-flags/issues) or [pull request](https://github.com/iiinh7/cool-chrome-flags/pulls). Any contributions should target Chrome's **stable** release.
 
 If you are to contribute, please include a preview screenshot if possible.
 
