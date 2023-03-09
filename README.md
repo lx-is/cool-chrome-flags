@@ -1,8 +1,9 @@
+# <img src="https://user-images.githubusercontent.com/121842593/223890279-78043da6-2d79-442b-ab92-f248c9e9265c.svg" width="26px" height="26px"> Cool Chrome Flags
+
 Useful flags (experiments) to extend or improve Google Chrome's base functionality, accessible via `chrome://flags`.
 
-**Contribute**\
-<sub>
-If you know of any flags that should be added to this list, submit an <a href="https://github.com/iiinh7/cool-chrome-flags/issues">issue</a> or <a href="https://github.com/iiinh7/cool-chrome-flags/pulls">pull request</a>. Any contributions should target Chrome's <b>stable</b> release. If you are to contribute, please include a preview screenshot if possible.</sub>
+#### Contribute
+If you know of any flags that should be added to this list, submit an [issue](https://github.com/iiinh7/cool-chrome-flags/issues) or [pull request](https://github.com/iiinh7/cool-chrome-flags/pulls). Any contributions should target Chrome's <b>stable</b> release. If you are to contribute, please include a preview screenshot if possible.
 
 # Flags
  **Flag** | **Value** | **Preview**
